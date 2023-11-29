@@ -1,0 +1,148 @@
+{
+    "teachers": [
+      {
+        "id": 1,
+        "name": "John Smith",
+        "courses": ["Mathematics", "Physics"]
+      },
+      {
+        "id": 2,
+        "name": "Alice Johnson",
+        "courses": ["Computer Science", "Data Structures"]
+      },
+      {
+        "id": 3,
+        "name": "Michael Brown",
+        "courses": ["Chemistry", "Biology"]
+      },
+      {
+        "id": 4,
+        "name": "Laura Adams",
+        "courses": ["English Literature", "Creative Writing"]
+      },
+      {
+        "id": 5,
+        "name": "David Lee",
+        "courses": ["History", "Geography"]
+      },
+      {
+        "id": 6,
+        "name": "Sophia Martinez",
+        "courses": ["Art History", "Sculpture"]
+      },
+      {
+        "id": 7,
+        "name": "Robert Turner",
+        "courses": ["Economics", "Statistics"]
+      },
+      {
+        "id": 8,
+        "name": "Olivia White",
+        "courses": ["Psychology", "Sociology"]
+      },
+      {
+        "id": 9,
+        "name": "Daniel Harris",
+        "courses": ["Music Theory", "Composition"]
+      },
+      {
+        "id": 10,
+        "name": "Emma Clark",
+        "courses": ["Environmental Science", "Ecology"]
+      }
+    ],
+    "students": [
+      {
+        "id": 101,
+        "name": "Emily Brown",
+        "courses": ["Mathematics", "Physics", "Chemistry"]
+      },
+      {
+        "id": 102,
+        "name": "Daniel Lee",
+        "courses": ["Computer Science", "Web Development", "Database Management"]
+      },
+      {
+        "id": 103,
+        "name": "Sophia Rodriguez",
+        "courses": ["Art History", "Sculpture", "Painting"]
+      },
+      {
+        "id": 104,
+        "name": "William Turner",
+        "courses": ["Economics", "Statistics", "Finance"]
+      },
+      {
+        "id": 105,
+        "name": "Ava Martinez",
+        "courses": ["Psychology", "Sociology", "Anthropology"]
+      },
+      {
+        "id": 106,
+        "name": "Ethan Adams",
+        "courses": ["Music Theory", "Composition", "Jazz Studies"]
+      },
+      {
+        "id": 107,
+        "name": "Isabella Harris",
+        "courses": ["Environmental Science", "Ecology", "Conservation"]
+      },
+      {
+        "id": 108,
+        "name": "James Clark",
+        "courses": ["History", "Geography", "World Cultures"]
+      },
+      {
+        "id": 109,
+        "name": "Grace White",
+        "courses": ["English Literature", "Creative Writing", "Poetry"]
+      },
+      {
+        "id": 110,
+        "name": "Liam Smith",
+        "courses": ["Chemistry", "Biology", "Genetics"]
+      }
+    ],
+    "courses": [
+      {
+        "id": 1001,
+        "name": "Mathematics",
+        "description": "Advanced calculus and algebra",
+        "duration": "12 weeks",
+        "start_date": "2023-01-15",
+        "end_date": "2023-04-10"
+      },
+      {
+        "id": 1002,
+        "name": "Physics",
+        "description": "Classical mechanics and electromagnetism",
+        "duration": "10 weeks",
+        "start_date": "2023-02-01",
+        "end_date": "2023-04-15"
+      },
+      {
+        "id": 1003,
+        "name": "Computer Science",
+        "description": "Programming fundamentals and algorithms",
+        "duration": "8 weeks",
+        "start_date": "2023-03-10",
+        "end_date": "2023-05-05"
+      },
+      {
+        "id": 1004,
+        "name": "Chemistry",
+        "description": "Chemical reactions and bonding",
+        "duration": "9 weeks",
+        "start_date": "2023-02-20",
+        "end_date": "2023-04-25"
+      },
+      {
+        "id": 1005,
+        "name": "Biology",
+        "description": "Study of living organisms",
+        "duration": "11 weeks",
+        "start_date": "2023-01-30",
+        "end_date": "2023-04-12"
+      }
+    ]
+}
